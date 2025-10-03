@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file_00000000926c622fa415e4e4328dd399.png" width="300" height="300" />
+  <img src="1759488812493.png" width="200" />
 </p>
 
 # 🚀 Relixor – Extensions Unleashed
