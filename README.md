@@ -60,7 +60,7 @@ Requirements:
 git clone https://github.com/relixor/relixor.git
 cd relixor
 ./build.sh
-
+```
 > Full build documentation will be added soon.
 
 
